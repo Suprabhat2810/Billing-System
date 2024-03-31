@@ -1,0 +1,16 @@
+	  ** Welcome **
+
+Bill Number : 8594
+
+Customer Name : Amit 
+
+Phone Number : 8837361471
+
+ ==================================== 
+ Products           QTY         Price 
+ ==================================== 
+ Laptop-Acer		      2	       122000 
+ Instalation-Laptop		   2	       5400 
+ ------------------------------------- 
+GST                             12 %
+Total                        142040.0

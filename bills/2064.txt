@@ -1,0 +1,16 @@
+	  ** Welcome **
+
+Bill Number : 2064
+
+Customer Name : Mridul
+
+Phone Number : 765899754
+
+ ==================================== 
+ Products           QTY         Price 
+ ==================================== 
+ Desktop-Dell		      2	       95000 
+ Instalation-Desktop		   2	       5400 
+ ------------------------------------- 
+GST                             10 %
+Total                        109900.0
